@@ -33,6 +33,7 @@
 [日動][2014][07][TV]黑執事3：諾亞方舟馬戲團篇<br>
 [日動][2014][07][TV]Fate/Kaleid Liner：魔法少女伊莉雅 2wei!<br>
 [日動][2014][10][OVA]黑執事：幽鬼城殺人事件<br>
+[日動][2014][10][TV]四月是你的謊言<br>
 [日動][2014][10][TV]蟲師2：荊棘之路<br>
 [日動][2014][10][TV]Fate/Stay Night：Unlimited Blade Works<br>
 [日動][2015][04][TV]Fate/Stay Night：Unlimited Blade Works 2<br>
