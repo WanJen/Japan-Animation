@@ -55,6 +55,7 @@
 [日動][2017][04][TV]情色漫畫老師<br>
 [日動][2017][07][TV]歡迎來到實力至上主義的教室<br>
 [日動][2017][07][TV]Fate/Apocrypha<br>
+[日動][2017][07][Movie]NO GAME NO LIFE 遊戲人生 ZERO<br>
 [日動][2017][10][Movie]Fate/Stay Night：Heaven's Feel I<br>
 [日動][2018][01][TV]衛宮家今天的餐桌風景<br>
 [日動][2018][01][TV]Fate/EXTRA：最後安歌<br>
