@@ -82,6 +82,7 @@
 [日動][2019][08][TV]Fate/Grander Order：絕對魔獸戰線巴比倫尼亞<br>
 [日動][2019][10][Movie]Fate/Stay Night：Heaven's Feel II<br>
 [日動][2020][01][TV]虛構推理<br>
+[日動][2020][01][TV]Re：從零開始的異世界生活 新編輯版<br>
 [日動][2020][02][Movie]鳴鳥不飛：烏雲密布<br>
 [日動][2020][08][Movie]Fate/Stay Night：Heaven's Feel III<br>
 [日動][2020][09][Movie]工作細胞特別上映版：強「菌」來襲！人體腸道大騷動！<br>
